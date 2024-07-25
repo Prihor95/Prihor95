@@ -9,10 +9,10 @@
 
 <div id="badges" align="center">
   ![](https://komarev.com/ghpvc/?username=Prihor95)
-<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Prihor95.Prihor95&color=00cf00" alt=""/>
 
 <h1>
-  Hola soy Luis. ¡Encantada de conocerte!
+  Hola soy Luis. ¡Encantado de conocerte!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
