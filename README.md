@@ -16,22 +16,18 @@
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<!--
 
-**Prihor95/Prihor95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ---
+ <div id="header" align="left">
+
+### 👨‍💻: Sobre mí :
+Ingeniero industrial, entusiasta de los datos y en transición laboral al data Analytics  <img decoding="async" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXE2bzY2Z3d1OHR1ZXFlaTMzN2h0d2E1YjMzaGYyaGsxZjVqZzd2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VHI6svvhu5xuqzyAoM/giphy.gif" width="30">
+
+- 🔭 Actualmente me encuentro trabajando en una empresa metalmecánica ⚙️, como ingeniero de producción, pero estoy en búsqueda de nuevos retos y expandir mis horizontes ✈️.
+- 🌱 Actualmente estoy estudiando en un bootcamp de Tripleten como Analista de datos 📈, poniendo en practica leguajes como SQL y Python.
+- 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/luis-enrique-diaz-rojas-905604163)
+- ⚡ Fun fact: Busco cualquier pretexto para tomar un cáfe ☕
+ 
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
 
