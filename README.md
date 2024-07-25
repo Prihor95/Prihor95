@@ -25,7 +25,7 @@ Ingeniero industrial, entusiasta de los datos y en transición laboral al data A
 
 - 🔭 Actualmente me encuentro trabajando en una empresa metalmecánica ⚙️, como ingeniero de producción, pero estoy en búsqueda de nuevos retos y expandir mis horizontes ✈️.
 - 🌱 Actualmente estoy estudiando en un bootcamp de Tripleten como Analista de datos 📈, poniendo en practica leguajes como SQL y Python.
-- 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/luis-enrique-diaz-rojas-905604163)
+- 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](www.linkedin.com/in/luis-enrique-diaz-rojas-905604163)
 - ⚡ Fun fact: Busco cualquier pretexto para tomar un cáfe ☕
  
 
