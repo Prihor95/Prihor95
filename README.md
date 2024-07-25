@@ -8,7 +8,7 @@
 
 
 <div id="badges" align="center">
-  ![](https://komarev.com/ghpvc/?username=Prihor95)
+
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Prihor95.Prihor95&color=00cf00" alt=""/>
 
 <h1>
