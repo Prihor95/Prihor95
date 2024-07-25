@@ -1,6 +1,11 @@
 ## Hi there 👋
+<div id="header" align="center">
+  <img decoding="async" src="[Data_analyst_Luis.png](https://github.com/Prihor95/Prihor95/blob/4a076c42484a5c78145ceb760d4a5cc74faffbaa/Data_analyst_Luis.png)" width="800"/>
+</div>
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
 
 <!--
+
 **Prihor95/Prihor95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
