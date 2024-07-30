@@ -23,9 +23,11 @@ Ingeniero industrial, entusiasta de los datos y en transición laboral al data A
 
 - 🔭 Actualmente me encuentro trabajando en una empresa metalmecánica ⚙️, como ingeniero de producción, pero estoy en búsqueda de nuevos retos y expandir mis horizontes ✈️.
 - 🌱 Actualmente estoy estudiando en un bootcamp de Tripleten como Analista de datos 📈, poniendo en practica leguajes como SQL y Python.
-- 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/luis-enrique-diaz-rojas-905604163/)
 - ⚡ Fun fact: Busco cualquier pretexto para tomar un cáfe ☕
- 
+- 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/luis-enrique-diaz-rojas-905604163/)
+- :e-mail: luis_e_diaz@live.com
+- :iphone: (+52) 55 1842 8908
+
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
 
