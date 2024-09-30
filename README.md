@@ -27,6 +27,7 @@ Ingeniero industrial, entusiasta de los datos y en transición laboral al data A
 - 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/luis-enrique-diaz-rojas-905604163/)
 - :e-mail: luis_e_diaz@live.com
 - :iphone: (+52) 55 1842 8908
+- (+52) 56 4759 4233
 
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
